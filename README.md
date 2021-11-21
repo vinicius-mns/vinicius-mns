@@ -1,9 +1,6 @@
 <h1>Olá me chamo Vinicius 🌸</h1>
-<div>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-mns&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-mns&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
-<div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-mns&show_icons=false&theme=dracula).[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-mns&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vinicius-mns/vinicius-mns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
