@@ -1,4 +1,4 @@
-<h1>Oi, me chamo Vinicius 🌸</h1>
+<h1>Oi, me chamo Vinicius</h1>
 
 <h3>Desenvolvedor junior Full Stack</h3>
 
